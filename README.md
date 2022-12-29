@@ -19,4 +19,5 @@ En este curso se aplica lo siguiente:
 # Link a los Deploys de los proyectos
 
 * [Practica Carrito](https://carritostorage.netlify.app)
+* [Simulador Emails](https://simuladoremails1.netlify.app)
 
