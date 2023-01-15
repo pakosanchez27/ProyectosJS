@@ -22,3 +22,4 @@ En este curso se aplica lo siguiente:
 * [Simulador Emails](https://simuladoremails1.netlify.app)
 * [Buscador](https://buscadorjsp.netlify.app)
 * [Tweets LocalStorage](https://tweetlocal.netlify.app)
+* [Cotizador de seguro Prototypes](https://cotizadorproto.netlify.app)
